@@ -1,0 +1,36 @@
+body.signin-body {
+    background-color:rgb(245, 239, 239);
+}
+
+.container.signin-container {
+    margin-top: 5%;
+}
+
+.card.signin-card {
+    padding: 40px 0px 20px;
+    background-color:rgb(238, 229, 229);
+    box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, .5);
+
+}
+
+img.signin-img {
+    width:300px;
+    max-height: auto;
+    margin: auto;
+    padding: 10px;
+    display: block;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+form.signin-form {
+    max-width: 400px;
+    margin: auto;
+}
+
+
+button.signin-btn {
+    width: 100%;
+    margin: 5% 0;
+}
